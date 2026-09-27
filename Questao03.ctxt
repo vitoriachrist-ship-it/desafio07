@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 27 18:09:15 BRT 2026
+comment0.target=Questao03
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=v
+comment2.target=void preencherImpares(int[])
+comment3.params=vet
+comment3.target=double digitaNota(double[])
+numComments=4

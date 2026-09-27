@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 27 18:13:16 BRT 2026
+comment0.target=Questao04
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=vet
+comment2.target=float digitaNota(int[])
+comment3.params=vet
+comment3.target=int contarMultiplos3e5(int[])
+numComments=4
